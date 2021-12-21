@@ -2,7 +2,9 @@
 
 A React color-picker where you can create & manage your own color palettes.
 
-- Hosted on Netlify : 
+- Hosted on Netlify : https://pedantic-turing-fff800.netlify.app/
+
+Application based on Colt Steele's React course.
 
 # Getting Started with Create React App
 
