@@ -1,3 +1,9 @@
+# A React Color-Picker App
+
+A React color-picker where you can create & manage your own color palettes.
+
+- Hosted on Netlify : 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
